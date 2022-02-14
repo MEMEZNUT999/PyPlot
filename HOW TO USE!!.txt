@@ -1,0 +1,10 @@
+1 - run RUNMEFIRST.EXE
+
+
+NOTE: When installing python make sure to select "Add python to PATH"
+
+
+3 - after it finished downloading run Install.bat
+
+4 - after that your done! just run START.bat
+
