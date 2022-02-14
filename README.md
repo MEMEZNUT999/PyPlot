@@ -1,6 +1,9 @@
 # PyPlot
 An open source simple Python program to draw graphs using matplotlib
 
+# Note
+**This is a very small project and I won't be putting much time into this. Its fairly easy to code and improve it**
+
 # How to setup
    **You will need Python to use this, I reccomend 3.9.8 since it's the one I used to test it out (https://python.org/downloads)**
 
