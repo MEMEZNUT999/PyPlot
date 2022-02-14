@@ -7,7 +7,7 @@ from time import sleep
 
 # Intro
 
-print("Automatic Graph Drawer v0.1\n")
+print("PyPlot V-0.1\n")
 #Options start
 x1 = int(input("X-axis 1st point: "))
 x2 = int(input("\nX-axis 2nd point: "))
@@ -44,7 +44,7 @@ plt.xlim(XLS, XLM)
  
 #v plt.set_ylim(bottom=0)
  
-# plotting the points
+# plot
 plt.plot(x, y, color='red', linestyle='dashed', linewidth = 3,
          marker='o', markerfacecolor='blue', markersize=6)
  
@@ -53,8 +53,6 @@ plt.xlabel(xla)
 # naming the y axis
 plt.ylabel(yla)
  
-# giving a title to my graph
 plt.title(titl)
  
-# function to show the plot
 plt.show()
